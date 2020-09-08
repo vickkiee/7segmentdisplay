@@ -1,0 +1,6 @@
+_main: CODE, 21 0 148
+_LED_DISPLAY: CODE, 319 0 46
+_TMR0INT: CODE, 365 0 35
+___lwdiv: CODE, 169 0 80
+___lwmod: CODE, 249 0 70
+Total: 379
