@@ -1,4 +1,4 @@
-## 4 Digit 7 Segment Dispplay for PIC16F876A C Code on Proteus ISIS
+## 4 Digit 7 Segment Display for PIC16F876A C Code on Proteus ISIS
 Description of code available at:
 
 https://youtu.be/cLfMEfgnZRo
